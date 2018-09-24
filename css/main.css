@@ -20,6 +20,11 @@ body {
   .red {
 	background-color: red;
   }
+  .container {
+	  height: 200px;
+	  width: 200px;
+	  background-color: black;
+  }
   @media(max-width: 600px) {
 	.blue {
 	  display: none;
